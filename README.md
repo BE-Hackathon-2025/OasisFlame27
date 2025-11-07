@@ -1,6 +1,6 @@
 # Oasis - AI for Community Impact
 
-**Hackathon Project: AI-powered app help better the quality of life for famiy in poverty**
+**Hackathon Project: AI-powered app Helping better the quality of life for Families in poverty**
 
 ## 🌟 Overview
 

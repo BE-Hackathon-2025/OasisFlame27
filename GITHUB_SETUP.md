@@ -20,7 +20,7 @@ Your project is now ready for GitHub! Follow these steps:
 
 2. **Create Repository:**
    - **Repository name:** `oasis-ai-community`
-   - **Description:** "AI-powered app help better the quality of life for famiy in poverty"
+   - **Description:** "AI-powered app Helping better the quality of life for Families in poverty"
    - **Visibility:**
      - ✅ **Public** (recommended for hackathon - shows judges your work)
      - ⚠️ Private (if you prefer, but judges may need access)
