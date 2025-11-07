@@ -1,6 +1,6 @@
 # Oasis - AI for Community Impact
 
-**Hackathon Project: Helping families in Jackson, TN navigate SNAP/EBT benefits and find food resources**
+**Hackathon Project: AI-powered app help better the quality of life for famiy in poverty**
 
 ## 🌟 Overview
 
